@@ -1,14 +1,9 @@
 <img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="smhasanjamil GitHub README header image">
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 <h1 align="center">S M HASAN JAMIL</h1>
 <p align="center">Full Stack Web Developer</p>
 
 <p align="center">
-  <a href="mailto:smhasanjamil14@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/smhasanjamil27/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
