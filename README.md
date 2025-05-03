@@ -18,22 +18,7 @@
 <h3>About Me</h3>
 <p>I'm a Full Stack Web Developer who values clarity, precision, and purpose in every line of code. I build web applications that are not only functional but thoughtfully designed from backend to frontend. My goal is simple: to solve real problems with clean, maintainable solutions that scale well and serve users effectively.</p>
 
-<h3>Contact Me</h3>
-<p>Email: smhasanjamil14@gmail.com</p>
-<p>
-  <a href="mailto:smhasanjamil14@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/smhasanjamil27/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/smhasanjamil" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/smhasanjamil14" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-</p>
+
 
 <h3>Things I Code With</h3>
 <p>
