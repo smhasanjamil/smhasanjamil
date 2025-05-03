@@ -61,7 +61,7 @@
 
 
 
-
+- 📫 Reach me on **smhasanjamil14@gmail.com**
 - 🔭 I’m currently working on [Feedme](https://github.com/smhasanjamil/feedme)
 
 - 🌱 I’m currently learning **Prisma, Docker**
