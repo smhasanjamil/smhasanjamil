@@ -53,8 +53,8 @@
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th style="padding: 12px; border: 1px solid #ddd;">Project (GitHub)</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Description</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Technologies</th>
+      <th style="padding: 12px; border: 1px solid #ddd; width: 35%;">Description</th>
+      <th style="padding: 12px; border: 1px solid #ddd; width: 30%;">Technologies</th>
       <th style="padding: 12px; border: 1px solid #ddd;">Live Site</th>
     </tr>
   </thead>
@@ -64,7 +64,7 @@
         <a href="https://github.com/yourusername/stationery-shop-app" target="_blank" style="color: #0366d6; text-decoration: none;">Stationery Shop App</a>
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
-        A full-stack web app for managing stationery inventory, including product CRUD, user management, and secure auth.
+        A full-stack app to manage inventory, user roles, and secure product operations.
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
@@ -78,7 +78,7 @@
         <a href="https://github.com/yourusername/project-2" target="_blank" style="color: #0366d6; text-decoration: none;">Project Two</a>
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
-        Brief description of your second project.
+        A client-side project with authentication and real-time data sync.
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         Next.js, Firebase, Tailwind CSS
@@ -92,10 +92,10 @@
         <a href="https://github.com/yourusername/project-3" target="_blank" style="color: #0366d6; text-decoration: none;">Project Three</a>
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
-        Brief description of your third project.
+        Real-time dashboard with chart visualizations and API integrations.
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
-        React, Node.js, MongoDB
+        React, Chart.js, Node.js, Express, MongoDB
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://project-three.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
@@ -103,6 +103,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
