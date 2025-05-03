@@ -48,61 +48,64 @@
 </p>
 
 
-<h3>My Projects</h3>
-<table style="width: 100%; border-collapse: collapse; text-align: left; margin-top: 20px;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="padding: 12px; border: 1px solid #ddd;">Projects</th>
-      <th style="padding: 12px; border: 1px solid #ddd; width: 35%;">Description</th>
-      <th style="padding: 12px; border: 1px solid #ddd; width: 30%;">Technologies</th>
-      <th style="padding: 12px; border: 1px solid #ddd;">Live Site</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://github.com/yourusername/stationery-shop-app" target="_blank" style="color: #0366d6; text-decoration: none;">Stationery Shop App</a>
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        A full-stack app to manage inventory, user roles, and secure product operations.
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://stationery-shop.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://github.com/yourusername/project-2" target="_blank" style="color: #0366d6; text-decoration: none;">Project Two</a>
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        A client-side project with authentication and real-time data sync.
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        Next.js, Firebase, Tailwind CSS
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://project-two.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://github.com/yourusername/project-3" target="_blank" style="color: #0366d6; text-decoration: none;">Project Three</a>
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        Real-time dashboard with chart visualizations and API integrations.
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        React, Chart.js, Node.js, Express, MongoDB
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://project-three.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h3 class="text-2xl font-semibold mb-4">My Projects</h3>
+<div class="overflow-x-auto">
+  <table class="min-w-full table-fixed border border-gray-300 text-left">
+    <thead class="bg-gray-100">
+      <tr>
+        <th class="w-[30%] px-4 py-3 border border-gray-300">Description</th>
+        <th class="w-[30%] px-4 py-3 border border-gray-300">Technologies</th>
+        <th class="w-[30%] px-4 py-3 border border-gray-300">Project (GitHub)</th>
+        <th class="w-[10%] px-4 py-3 border border-gray-300">Live</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="hover:bg-gray-50">
+        <td class="px-4 py-3 border border-gray-300">
+          A full-stack app to manage inventory, user roles, and secure product operations.
+        </td>
+        <td class="px-4 py-3 border border-gray-300">
+          React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-600">
+          <a href="https://github.com/yourusername/stationery-shop-app" target="_blank">Stationery Shop App</a>
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-500">
+          <a href="https://stationery-shop.vercel.app" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr class="hover:bg-gray-50">
+        <td class="px-4 py-3 border border-gray-300">
+          A client-side project with authentication and real-time data sync.
+        </td>
+        <td class="px-4 py-3 border border-gray-300">
+          Next.js, Firebase, Tailwind CSS
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-600">
+          <a href="https://github.com/yourusername/project-2" target="_blank">Project Two</a>
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-500">
+          <a href="https://project-two.vercel.app" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr class="hover:bg-gray-50">
+        <td class="px-4 py-3 border border-gray-300">
+          Real-time dashboard with chart visualizations and API integrations.
+        </td>
+        <td class="px-4 py-3 border border-gray-300">
+          React, Chart.js, Node.js, Express, MongoDB
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-600">
+          <a href="https://github.com/yourusername/project-3" target="_blank">Project Three</a>
+        </td>
+        <td class="px-4 py-3 border border-gray-300 text-blue-500">
+          <a href="https://project-three.vercel.app" target="_blank">Live</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 
