@@ -62,18 +62,10 @@
 
 
 - 📫 Reach me on **smhasanjamil14@gmail.com**
-- 🔭 I’m currently working on [Feedme](https://github.com/smhasanjamil/feedme)
-
-- 🌱 I’m currently learning **Prisma, Docker**
-
 - 👨‍💻 All of my projects are available at [https://smhasanjamil.web.app/](https://smhasanjamil.web.app/)
-
-- 📝 I regularly write articles on [https://smhasanjamil.web.app/blog](https://smhasanjamil.web.app/blog)
-
+- 🔭 I’m currently working on [Feedme](https://github.com/smhasanjamil/feedme)
+- 🌱 I’m currently learning **Prisma, Docker**
 - 💬 Ask me about **TypeScript, Next.js, MongoDB, Mongoose, Node.js, Express.js**
-
-- 📄 Know about my experiences, Resume: [https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing](https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing)
-
 
 
 
