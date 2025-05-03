@@ -52,7 +52,7 @@
 <table style="width: 100%; border-collapse: collapse; text-align: left; margin-top: 20px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th style="padding: 12px; border: 1px solid #ddd;">Project (GitHub)</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Projects</th>
       <th style="padding: 12px; border: 1px solid #ddd; width: 35%;">Description</th>
       <th style="padding: 12px; border: 1px solid #ddd; width: 30%;">Technologies</th>
       <th style="padding: 12px; border: 1px solid #ddd;">Live Site</th>
