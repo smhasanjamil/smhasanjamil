@@ -138,19 +138,19 @@
 
 
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=smhasanjamil&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smhasanjamil&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhasanjamil&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhasanjamil&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=smhasanjamil&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smhasanjamil&theme=tokyo-night&hide_border=true" />
 </p>
 
 
