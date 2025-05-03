@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S M HASAN JAMIL</h1>
+<h2 align="center">Hi 👋, I'm S M HASAN JAMIL</h2>
 <h3 align="center">Full Stack Web Developer</h3>
 <h3 align="center">I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</h3>
 
