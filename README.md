@@ -130,12 +130,7 @@
 
 - 📄 Know about my experiences, Resume: [https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing](https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smhasanjamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smhasanjamil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smhasanjamil27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smhasanjamil27" height="30" width="40" /></a>
-<a href="https://fb.com/smhasanjamil14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smhasanjamil14" height="30" width="40" /></a>
-</p>
+
 
 
 
