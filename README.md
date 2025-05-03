@@ -50,63 +50,64 @@
 
 
 
-<h3 class="text-2xl font-semibold mb-4">My Projects</h3>
-<div class="overflow-x-auto">
-  <table class="min-w-full table-fixed border border-gray-300 text-left text-sm">
-    <thead class="bg-gray-100">
-      <tr>
-        <th class="w-[30%] px-2 py-2 border border-gray-300">Project (GitHub)</th>
-        <th class="w-[30%] px-2 py-2 border border-gray-300">Description</th>
-        <th class="w-[30%] px-2 py-2 border border-gray-300">Technologies</th>
-        <th class="w-[10%] px-2 py-2 border border-gray-300">Live</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr class="hover:bg-gray-50">
-        <td class="px-2 py-2 border border-gray-300 text-blue-600">
-          <a href="https://github.com/yourusername/stationery-shop-app" target="_blank">Stationery Shop App</a>
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          Inventory and user management app with secure CRUD operations.
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind
-        </td>
-        <td class="px-2 py-2 border border-gray-300 text-blue-500">
-          <a href="https://stationery-shop.vercel.app" target="_blank">Live</a>
-        </td>
-      </tr>
-      <tr class="hover:bg-gray-50">
-        <td class="px-2 py-2 border border-gray-300 text-blue-600">
-          <a href="https://github.com/yourusername/project-2" target="_blank">Project Two</a>
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          Authentication and real-time sync using Firebase.
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          Next.js, Firebase, Tailwind CSS
-        </td>
-        <td class="px-2 py-2 border border-gray-300 text-blue-500">
-          <a href="https://project-two.vercel.app" target="_blank">Live</a>
-        </td>
-      </tr>
-      <tr class="hover:bg-gray-50">
-        <td class="px-2 py-2 border border-gray-300 text-blue-600">
-          <a href="https://github.com/yourusername/project-3" target="_blank">Project Three</a>
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          Dashboard with charts and external API integrations.
-        </td>
-        <td class="px-2 py-2 border border-gray-300">
-          React, Chart.js, Express, MongoDB
-        </td>
-        <td class="px-2 py-2 border border-gray-300 text-blue-500">
-          <a href="https://project-three.vercel.app" target="_blank">Live</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
+<h3>🚀 My Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project (GitHub)</th>
+      <th align="left">Description</th>
+      <th align="left">Technologies</th>
+      <th align="left">Live</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/yourusername/stationery-shop-app">Stationery Shop App</a>
+      </td>
+      <td>
+        Inventory and user management app with secure CRUD operations.
+      </td>
+      <td>
+        React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
+      </td>
+      <td>
+        <a href="https://stationery-shop.vercel.app">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/yourusername/project-2">Project Two</a>
+      </td>
+      <td>
+        Auth and real-time sync using Firebase.
+      </td>
+      <td>
+        Next.js, Firebase, Tailwind CSS
+      </td>
+      <td>
+        <a href="https://project-two.vercel.app">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/yourusername/project-3">Project Three</a>
+      </td>
+      <td>
+        Dashboard with charts and external API integrations.
+      </td>
+      <td>
+        React, Chart.js, Express, MongoDB
+      </td>
+      <td>
+        <a href="https://project-three.vercel.app">Live</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
