@@ -138,19 +138,21 @@
 
 
 
-## 📈 GitHub Stats & Activity
+## 📊 My Stats & Activity
 
-<p align="center">
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smhasanjamil&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
+  
+  <br/><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhasanjamil&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smhasanjamil&theme=tokyo-night&hide_border=true" />
-</p>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smhasanjamil&theme=tokyo-night&hide_border=true" width="100%" />
+  
+</div>
 
 
