@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm S M HASAN JAMIL</h2>
 <h4 align="center">Full Stack Web Developer</h4>
-<h6 align="center">I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</h6>
+<p>I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</p>
 
 <h3>Things I Code With</h3>
 <p>
