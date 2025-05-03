@@ -53,7 +53,7 @@
 
 
 
-<h3>🚀 My Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
@@ -134,11 +134,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhasanjamil&show_icons=true&locale=en&layout=compact" alt="smhasanjamil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&locale=en" alt="smhasanjamil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhasanjamil&" alt="smhasanjamil" /></p>
 
 
 
