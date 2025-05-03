@@ -1,8 +1,10 @@
 <img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="smhasanjamil GitHub README header image">
 
-<h2 align="center">Hi 👋, I'm S M HASAN JAMIL</h2>
-<h3 align="center">Full Stack Web Developer</h3>
-<h3 align="center">I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<h2 align="center">I'm S M HASAN JAMIL</h2>
+<h4 align="center">Full Stack Web Developer</h4>
+<h6 align="center">I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</h6>
 
 <h3>Things I Code With</h3>
 <p>
