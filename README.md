@@ -139,3 +139,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&locale=en" alt="smhasanjamil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhasanjamil&" alt="smhasanjamil" /></p>
+
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smhasanjamil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smhasanjamil&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smhasanjamil&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smhasanjamil&theme=tokyonight" />
+</p>
+
