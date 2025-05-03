@@ -49,36 +49,61 @@
 
 
 <h3>My Projects</h3>
-<table style="width: 100%; border-collapse: collapse; text-align: center; margin-top: 20px;">
+<table style="width: 100%; border-collapse: collapse; text-align: left; margin-top: 20px;">
   <thead>
-    <tr style="background-color: #f4f4f4; color: #333;">
-      <th style="padding: 10px; border: 1px solid #ddd;">Project Name</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Technologies</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Link</th>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 12px; border: 1px solid #ddd;">Project (GitHub)</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Description</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Technologies</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Live Site</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color: #fff;">
-      <td style="padding: 10px; border: 1px solid #ddd;">Stationery Shop App</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">A full-stack app for managing stationery products, built with Node.js, Express, and MongoDB.</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Node.js, Express, MongoDB, JavaScript</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/stationery-shop-app" target="_blank" style="color: #0366d6; text-decoration: none;">Stationery Shop App</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        A full-stack web app for managing stationery inventory, including product CRUD, user management, and secure auth.
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://stationery-shop.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
+      </td>
     </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px; border: 1px solid #ddd;">Project 2</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Brief description of project 2.</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Technologies used in project 2</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/project-2" target="_blank" style="color: #0366d6; text-decoration: none;">Project Two</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        Brief description of your second project.
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        Next.js, Firebase, Tailwind CSS
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://project-two.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
+      </td>
     </tr>
-    <tr style="background-color: #fff;">
-      <td style="padding: 10px; border: 1px solid #ddd;">Project 3</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Brief description of project 3.</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Technologies used in project 3</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/project-3" target="_blank" style="color: #0366d6; text-decoration: none;">Project Three</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        Brief description of your third project.
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        React, Node.js, MongoDB
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://project-three.vercel.app" target="_blank" style="color: #1DA1F2;">View Live</a>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
