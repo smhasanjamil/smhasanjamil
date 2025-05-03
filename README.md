@@ -57,16 +57,16 @@
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
     <tr style="background-color: #007acc; color: white;">
-      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Project (GitHub)</th>
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Projects</th>
       <th align="left" style="padding: 10px; border: 1px solid #ccc;">Description</th>
       <th align="left" style="padding: 10px; border: 1px solid #ccc;">Technologies</th>
-      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Live</th>
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Live Site</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://github.com/yourusername/stationery-shop-app" style="color: #2c3e50; font-weight: bold;">Stationery Shop App</a>
+        <a href="https://github.com/smhasanjamil/feedme" style="color: #2c3e50; font-weight: bold;">Meal Planning & Delivery Web Application</a>
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         Inventory and user management app with secure CRUD operations.
@@ -75,7 +75,7 @@
         <span style="color: #d35400;">React</span>, <span style="color: #764abc;">Redux</span>, <span style="color: #27ae60;">MongoDB</span>, Node.js, Express, Mongoose, Tailwind
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://stationery-shop.vercel.app" style="color: #2980b9;">🔗</a>
+        <a href="https://feedme-meal.vercel.app/" style="color: #2980b9;">View</a>
       </td>
     </tr>
     <tr>
