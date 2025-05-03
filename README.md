@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
-  <h2>HASAN JAMIL</h2>
+  <h4>HASAN JAMIL</h4>
   <h4>Full Stack Web Developer</h4>
 </div>
 
