@@ -51,62 +51,64 @@
 
 
 
+
 <h3>🚀 My Projects</h3>
 
-<table>
+<table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
-    <tr>
-      <th align="left">Project (GitHub)</th>
-      <th align="left">Description</th>
-      <th align="left">Technologies</th>
-      <th align="left">Live</th>
+    <tr style="background-color: #007acc; color: white;">
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Project (GitHub)</th>
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Description</th>
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Technologies</th>
+      <th align="left" style="padding: 10px; border: 1px solid #ccc;">Live</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/yourusername/stationery-shop-app">Stationery Shop App</a>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/stationery-shop-app" style="color: #2c3e50; font-weight: bold;">Stationery Shop App</a>
       </td>
-      <td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
         Inventory and user management app with secure CRUD operations.
       </td>
-      <td>
-        React, Redux, Node.js, Express, MongoDB, Mongoose, Tailwind CSS
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <span style="color: #d35400;">React</span>, <span style="color: #764abc;">Redux</span>, <span style="color: #27ae60;">MongoDB</span>, Node.js, Express, Mongoose, Tailwind
       </td>
-      <td>
-        <a href="https://stationery-shop.vercel.app">Live</a>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://stationery-shop.vercel.app" style="color: #2980b9;">🔗</a>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/yourusername/project-2">Project Two</a>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/project-2" style="color: #2c3e50; font-weight: bold;">Project Two</a>
       </td>
-      <td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
         Auth and real-time sync using Firebase.
       </td>
-      <td>
-        Next.js, Firebase, Tailwind CSS
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <span style="color: #e44d26;">Next.js</span>, <span style="color: #ffca28;">Firebase</span>, Tailwind CSS
       </td>
-      <td>
-        <a href="https://project-two.vercel.app">Live</a>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://project-two.vercel.app" style="color: #2980b9;">🔗</a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/yourusername/project-3">Project Three</a>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://github.com/yourusername/project-3" style="color: #2c3e50; font-weight: bold;">Project Three</a>
       </td>
-      <td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
         Dashboard with charts and external API integrations.
       </td>
-      <td>
-        React, Chart.js, Express, MongoDB
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        React, <span style="color: #f39c12;">Chart.js</span>, Express, MongoDB
       </td>
-      <td>
-        <a href="https://project-three.vercel.app">Live</a>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://project-three.vercel.app" style="color: #2980b9;">🔗</a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
