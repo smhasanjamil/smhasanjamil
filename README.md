@@ -1,6 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">Hi 👋, I'm S M HASAN JAMIL</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
+<h3 align="center">I'm a full-stack developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhasanjamil&label=Profile%20views&color=0e75b6&style=flat" alt="smhasanjamil" /> </p>
 
