@@ -10,20 +10,19 @@
 
 <h3>Contact Me</h3>
 <p>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:smhasanjamil14@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/smhasanjamil27/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/smhasanjamil" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/smhasanjamil14" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
-
 
 <h3>Things I Code With</h3>
 <p>
