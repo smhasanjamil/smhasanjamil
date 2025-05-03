@@ -2,8 +2,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h3 align="center" style="margin-bottom: 4px;">I'm S M HASAN JAMIL</h3>
-<h4 align="center">Full Stack Web Developer</h4>
+<h3 align="center">I'm S M HASAN JAMIL</h3>
+<p align="center">Full Stack Web Developer</p>
 
 
 <p>I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</p>
