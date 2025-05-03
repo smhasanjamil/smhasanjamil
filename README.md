@@ -6,7 +6,7 @@
 <p align="center">Full Stack Web Developer</p>
 
 
-<p>I'm a Full Stack Web Developer driven by the vision of building smart, scalable, and user-focused digital solutions. I aim to create technology that not only works efficiently but also makes life easier and better for real people.</p>
+<p>I'm a Full Stack Web Developer who values clarity, precision, and purpose in every line of code. I build web applications that are not only functional but thoughtfully designed from backend to frontend. My goal is simple: to solve real problems with clean, maintainable solutions that scale well and serve users effectively.</p>
 
 <h3>Things I Code With</h3>
 <p>
