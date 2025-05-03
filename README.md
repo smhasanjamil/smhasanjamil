@@ -94,16 +94,16 @@
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://github.com/yourusername/project-3" style="color: #2c3e50; font-weight: bold;">Project Three</a>
+        <a href="https://github.com/smhasanjamil/nesty" style="color: #2c3e50; font-weight: bold;">Travel booking application</a>
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        Dashboard with charts and external API integrations.
+        Nesty is a travel booking platform that connects users with vacation homes and accommodations. Users can search, browse, and book listings, while property owners can manage their listings and bookings seamlessly.
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        React, <span style="color: #f39c12;">Chart.js</span>, Express, MongoDB
+        <span style="color: #f39c12;">Next.js, TypeScript, MongoDB, Tailwind CSS, JWT</span>
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://project-three.vercel.app" style="color: #2980b9;">🔗</a>
+        <a href="https://nesty-hasanjamil.vercel.app/" style="color: #2980b9;">View</a>
       </td>
     </tr>
   </tbody>
