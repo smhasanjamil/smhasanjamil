@@ -9,6 +9,7 @@
 <p>I'm a Full Stack Web Developer who values clarity, precision, and purpose in every line of code. I build web applications that are not only functional but thoughtfully designed from backend to frontend. My goal is simple: to solve real problems with clean, maintainable solutions that scale well and serve users effectively.</p>
 
 <h3>Contact Me</h3>
+<p>Email: smhasanjamil14@gmail.com</p>
 <p>
   <a href="mailto:smhasanjamil14@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -127,9 +128,7 @@
 
 - 💬 Ask me about **TypeScript, Next.js, MongoDB, Mongoose, Node.js, Express.js**
 
-- 📫 How to reach me **smhasanjamil14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing](https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing)
+- 📄 Know about my experiences, Resume: [https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing](https://drive.google.com/file/d/16vE4YbC3s5CTqc8TmenKwd8WpHQD9Clv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
