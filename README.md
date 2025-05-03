@@ -31,14 +31,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smhasanjamil&label=Profile%20views&color=0e75b6&style=flat" alt="smhasanjamil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhasanjamil" alt="smhasanjamil" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/smhasanjamil" target="blank"><img src="https://img.shields.io/twitter/follow/smhasanjamil?logo=twitter&style=for-the-badge" alt="smhasanjamil" /></a> </p>
-
 - 🔭 I’m currently working on [Feedme](https://github.com/smhasanjamil/feedme)
 
 - 🌱 I’m currently learning **Prisma, Docker**
