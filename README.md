@@ -66,7 +66,7 @@
   <tbody>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://github.com/smhasanjamil/feedme" target="_blank" style="color: #2c3e50; font-weight: bold;">Meal Planning & Delivery Web Application</a>
+        <a href="https://github.com/smhasanjamil/feedme" style="color: #2c3e50; font-weight: bold;" target="_blank" rel="noopener noreferrer">Meal Planning & Delivery Web Application</a>
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         Meal Box is a Personalized Meal Planning & Delivery web app that allows customers to choose, customize, and schedule meal deliveries based on their dietary preferences. Meal providers manage menus and respond to customer orders. The platform features role-based access, with separate dashboards for customers, meal providers, and admins. Admins can manage users and content.
@@ -75,7 +75,7 @@
         <span style="color: #d35400;">Next.js, TypeScript, Node.js, Express, Mongoose</span>
       </td>
       <td style="padding: 10px; border: 1px solid #ddd;">
-        <a href="https://feedme-meal.vercel.app/" target="_blank" style="color: #2980b9;">View</a>
+        <a href="https://feedme-meal.vercel.app/" style="color: #2980b9;" target="_blank" rel="noopener noreferrer">View</a>
       </td>
     </tr>
     <tr>
