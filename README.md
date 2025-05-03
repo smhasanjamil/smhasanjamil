@@ -15,7 +15,7 @@
   </a>
 </p>
 
-
+<h3>About Me</h3>
 <p>I'm a Full Stack Web Developer who values clarity, precision, and purpose in every line of code. I build web applications that are not only functional but thoughtfully designed from backend to frontend. My goal is simple: to solve real problems with clean, maintainable solutions that scale well and serve users effectively.</p>
 
 <h3>Contact Me</h3>
