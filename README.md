@@ -47,6 +47,42 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
+
+<h3>My Projects</h3>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin-top: 20px;">
+  <thead>
+    <tr style="background-color: #f4f4f4; color: #333;">
+      <th style="padding: 10px; border: 1px solid #ddd;">Project Name</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Description</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Technologies</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #fff;">
+      <td style="padding: 10px; border: 1px solid #ddd;">Stationery Shop App</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">A full-stack app for managing stationery products, built with Node.js, Express, and MongoDB.</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Node.js, Express, MongoDB, JavaScript</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 10px; border: 1px solid #ddd;">Project 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Brief description of project 2.</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Technologies used in project 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    </tr>
+    <tr style="background-color: #fff;">
+      <td style="padding: 10px; border: 1px solid #ddd;">Project 3</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Brief description of project 3.</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Technologies used in project 3</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="your_project_link" target="_blank" style="color: #1DA1F2;">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 - 🔭 I’m currently working on [Feedme](https://github.com/smhasanjamil/feedme)
 
 - 🌱 I’m currently learning **Prisma, Docker**
